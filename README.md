@@ -31,33 +31,33 @@ The dashboard is meticulously designed with distinct, interactive sections, each
     * Visualizes **Revenue and GM% Overtime** (Quarterly and Annually), identifying periods of growth, decline, and profit margin trends.
     * Breaks down **Revenue by Country** (e.g., United States, Canada, France) and **Revenue by Category** (e.g., Protein, Carbs, Amino Acids), highlighting top-performing markets and product segments.
     * Shows **Revenue by Business Type** (e.g., Warehouse, Supplement, Gym), indicating key sales channels.
-    * ![Alt Text](Revenue.png)
+    * ![Alt Text](Revenue_Analysis.jpg)
 )
 * **Customer Analysis:**
     * Displays key metrics like **Total Customers, Average Order Value (AOV), Orders, and #Customers No Sold**.
     * Analyzes **Order Frequency** to understand purchasing habits.
     * Presents **Churn Analysis** over time, revealing customer retention trends.
     * Maps **#Customers per Region with Profits** and **#Customers without Orders per Region**, pinpointing profitable customer locations and areas requiring attention.
-    * ![Alt Text](Customer.png) 
+    * ![Alt Text](Customer_Analysis.jpg) 
 
 
 * **Returns Analysis:**
     * Quantifies **Returns Amount, #Orders have returns, #Customers (Returns), and Quantity (Returns)**.
     * Identifies **#Orders have returns by Subcategory** (e.g., Whey Protein, Egg Protein, Meal Replacement), spotlighting products with high return rates.
     * Analyzes **Average Order Returns per Month** and **#Orders Returns per Month** by region, revealing seasonal return patterns and geographical return hotspots.
-    * ![Alt Text](Returns.png)
+    * ![Alt Text](Returns_Analysis.jpg)
 * **Time Analysis:**
     * Provides a year-to-date (YTD) view of **Revenue, Profit, and Cost by Month**, enabling detailed trend analysis over time.
     * Compares **Revenue, Profit, and Cost** month-over-month to identify consistent patterns and outliers.
-    * ![Alt Text](Time.png)
+    * ![Alt Text](Time_Analysis.jpg)
 
 * **Product Analysis:**
     * This section would typically detail insights into best-selling products, lowest-performing items, product category profitability, and inventory turnover, allowing Creatine House to optimize their product offerings and stock levels.
-   ![Alt Text](Product.png)
+   ![Alt Text](Product_Analysis.jpg)
 
 * **Location Analysis:**
     * This section would typically visualize sales, profit, and customer distribution across different geographic regions or store locations, supporting targeted marketing and expansion strategies.
-    ![Alt Text](Location.png)
+    ![Alt Text](Location_Analysis.jpg)
 
 ## 4. Data Sources
 
@@ -92,13 +92,9 @@ This Sales Performance Dashboard provides Creatine House with an unparalleled vi
 * **Improve Profitability:** Identify inefficiencies, capitalize on growth opportunities, and strategically allocate resources.
 * **Drive Strategic Growth:** Inform future market expansion, product development, and overall business strategy with reliable, actionable data.
 
-## 8. Live Demo
-
-Explore the interactive dashboard live on NovyPro: **[[Novypro](https://www.novypro.com/profile_about/mahmoud-mamdouh?Popup=memberProject&Data=1748329372294x310340830017542340)]
-
-## 10. Contact
+## 9. Contact
 
 Feel free to connect with me for any questions, feedback, or collaborations on this project:
 
-* **Linkedin:** **[https://www.linkedin.com/in/mahmoud-mamdouh-324125220/]**
-* **Email:** **[mamdouhmahmoud53@gmail.com]** (Optional)
+* **Linkedin:** **[https://www.linkedin.com/in/ashraf-saber-abdalwahed-aa6287305/]**
+* **Email:** **[ashrafsaber726@gmail.com]**
